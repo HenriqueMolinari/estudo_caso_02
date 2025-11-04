@@ -15,7 +15,7 @@ Sistema completo desenvolvido em **Dart** para gerenciamento de funcionários de
 ### ⚙️ Configuração do Banco de Dados
 
 1. **Execute o script SQL no MySQL Workbench:**
-   🔗 [DOWNLOAD DO SCRIPT SQL](https://drive.google.com/arquivo-sql)
+   🔗 [DOWNLOAD DO SCRIPT SQL](https://drive.google.com/drive/folders/1epu4StOlH-XVx1NZsk4l3dMj2DvqFXya?usp=sharing)
 
 2. **O script inclui:**
    - Criação do banco `estudocaso2_db`
