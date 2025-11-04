@@ -175,27 +175,6 @@ Bônus: R$ 3000.00
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-- **Linguagem**: Dart 3.0+
-- **Banco de Dados**: MySQL 8.0+
-- **Arquitetura**: MVC (Model-View-Controller)
-- **Paradigma**: POO (Programação Orientada a Objetos)
-- **Driver**: mysql1 (conexão com MySQL)
-- **Interface**: Console/Terminal
-
----
-
-## 📞 Suporte
-
-### 🔍 Solução de Problemas Comuns
-
-**Erro de Conexão com MySQL:**
-- Verifique se o MySQL Server está rodando
-- Confirme usuário e senha no arquivo `database_config.dart`
-- Execute o script SQL fornecido no link do Drive
-- Verifique se o banco `estudocaso2_db` foi criado
-
 **Dependências Não Encontradas:**
 ```bash
 # Execute no terminal:
@@ -209,16 +188,10 @@ dart pub get
 
 ---
 
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins educacionais como estudo de caso em **Dart**, **POO** e **MVC**.
-
----
-
-## 👨‍💻 Desenvolvido por
+## 👨‍💻 Desenvolvido por: Henrique de O. Molinari (RA: 25001176)
 
 **Estudo de Caso 2** - Sistema de Gestão de Funcionários  
-💼 **TechSolutions** - 2024  
+💼 **TechSolutions** - 2025  
 🎯 **Objetivo**: Demonstrar implementação de CRUD completo com Dart e MySQL
 
 ---
@@ -229,16 +202,5 @@ Este projeto foi desenvolvido para fins educacionais como estudo de caso em **Da
 # Clone o projeto, configure o banco e execute:
 dart run main.dart
 ```
-
-**Sistema desenvolvido com 💙 usando Dart e MySQL**
-
----
-
-### 📋 CHECKLIST FINAL
-- ✅ Banco de dados configurado
-- ✅ Credenciais MySQL ajustadas
-- ✅ Dependências instaladas
-- ✅ Sistema executando
-- ✅ Funcionalidades testadas
 
 **Agora você está pronto para gerenciar seus funcionários!** 🚀
